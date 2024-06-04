@@ -95,17 +95,20 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsk098&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavsk098&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://www.perforce.com/sites/default/files/image/2018-06/image-blog-what-is-static-analysis.jpg" align="left" height="150" width="" />  
+
+
+</td></tr></table>  
 
 <br/>  
 
-
-## Recent Blog Posts  
   
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
